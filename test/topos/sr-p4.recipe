@@ -1,0 +1,4 @@
+# fabric.p4 with ONOS segment routing recipe
+export OTD=4 # ONOS Topology Devices
+export OTL=4 # ONOS Topology Links
+export OTH=4 # ONOS Topology Hosts

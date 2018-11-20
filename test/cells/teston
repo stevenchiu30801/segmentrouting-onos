@@ -1,0 +1,12 @@
+# ONOS System Test
+
+export ONOS_NIC="192.168.20.*"
+export OC1="192.168.20.131"
+export OC2="192.168.20.132"
+export OC3="192.168.20.133"
+export OCC1="192.168.20.131"
+export OCC2="192.168.20.132"
+export OCC3="192.168.20.133"
+export OCN="192.168.20.134"
+
+export ONOS_APPS=drivers,openflow,proxyarp,segmentrouting,drivers.bmv2,pipelines.fabric
